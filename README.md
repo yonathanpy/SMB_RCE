@@ -105,4 +105,4 @@ This project is intended for vulnerability research, reverse engineering, and de
 
 ## Author
 
-Yonathanpy aka witwizard.
+Yonathanpy aka witwizard/sergie/orlserg
